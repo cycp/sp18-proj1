@@ -9,6 +9,7 @@ They are all trainerless pokemon.
 It creates a button labeled "Throw a Pokeball!" that creates a PATCH request to the capture path/method. It takes in the id of the pokemon as a parameter in the capture method so that it can set that pokemon's trainer to the currently logged in trainer.
 
 # Question 3: What would you name your own Pokemon?
+Esteban Julio Ricardo Montoya de la Rosa Ramirez
 
 # Question 4: What did you pass into the redirect_to? If it is a path, what did that path need? If it is not a path, why is it okay not to have a path here?
 
