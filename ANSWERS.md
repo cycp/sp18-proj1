@@ -15,6 +15,7 @@ Esteban Julio Ricardo Montoya de la Rosa Ramirez
 trainers_path, which needs to take in the pokemon's trainer id as a parameter
 
 # Question 5: Explain how putting this line "flash[:error] = @pokemon.errors.full_messages.to_sentence" shows error messages on your form.
+flash is a variable where we can store anything in, and the page loops through everything stored in flash and renders it as a message.
 
 # Give us feedback on the project and decal below!
 
